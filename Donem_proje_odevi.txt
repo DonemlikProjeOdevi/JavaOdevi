@@ -1,0 +1,24 @@
+EMLAK OTOMASYONU
+
+1.	Login
+2.	Ana Menü
+a. Yeni İlan
+b. Mevcut İlanlar 
+c. Müşteriler
+d. Bekleyen Müşteriler
+e. Geçmişe Dönük İşlenmiş İlanlar
+f. Müşteri Tanımlama
+g. Kayıtlı Müşteriler
+h. Admin 
+ı. Yeni Kullanıcı Tanımlama
+
+
+OTOMASYON AÇIKLAMASI:
+Login kısmın da kullanıcı Adı ve Şifre sorulacaktır. Yeni Kayıt İlanı Ekranımızda Gayrimenkul hakkın da detaylı bilgiler alınacaktır.
+Mevcut ilanlar hakkında kriterli listeme sayfası yapılacaktır seçilen ilanın detay sayfasına gidilecektir.
+Bekleyen Müşteriler ise bize kriterlerini vermiş müşteriler tutulacaktır. Amaç kriterlerine uygun ilan oluşursa iletişime geçebilmesi içindir. Geçmişe dönük işlenmiş ilanlar ise satılmış ya da kiralanmış ya da iptal edilmiş ilanlar olacaktır. Müşteri tanımlama ekranı ise müşteri bilgileri alınacaktır. Kayıtlı müşteriler ise listeleme ekranı olacaktır hangi müşterinin hangi ilan fiyat verildiği görülecektir. Admin ekranımızda ise Emlak ismi ve Resmi gibi Admin kullanıcı gibi bilgileri tutulacaktır. Emlak işletmelerinde bir den fazla çalışan olabileceği Yeni Kullanıcı Tanımla Ekranı olacaktır. Eksiklerimiz var Projeyi Geliştirdikçe Eksiklerimizi Kapatacağımızı düşünüyoruz
+
+
+
+ 
+
