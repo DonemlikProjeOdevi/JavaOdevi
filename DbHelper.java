@@ -22,7 +22,7 @@ public class DbHelper {
     {
         try {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-        String url="jdbc:sqlserver://localhost:1433;databaseName=EMLAK;user=BILSAMUSER;password=Bismillah+qwz0";
+        String url="jdbc:sqlserver://localhost:1433;databaseName=EMLAK;user=;password=";
         Connection con = DriverManager.getConnection(url);    
         st = con.createStatement();
         }
